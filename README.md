@@ -18,6 +18,11 @@ PyCharm\
 Qt Designer\
 Python 3.12.2
 
+# Screenshots
+![alt text](https://github.com/koalas11/Stock-Price-App/blob/main/Screenshots/Home%20Screen.PNG)
+![alt text](https://github.com/koalas11/Stock-Price-App/blob/main/Screenshots/Home%20Screen2.PNG)
+![alt text](https://github.com/koalas11/Stock-Price-App/blob/main/Screenshots/Home%20Screen3.PNG)
+
 ## App Architecture:
 Stock Price App/\
 │\
