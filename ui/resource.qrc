@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/arrow-left.svg</file>
+    <file>icons/app_icon.ico</file>
+    <file>icons/arrow-right.svg</file>
+    <file>icons/info.svg</file>
+    <file>icons/go_back.svg</file>
+    <file>icons/menu.svg</file>
+    <file>icons/settings.svg</file>
+    <file>icons/moon.svg</file>
+    <file>icons/sun.svg</file>
+  </qresource>
+  <qresource prefix="styles">
+    <file>qss/windows.qss</file>
+    <file>qss/default.qss</file>
+    <file>qss/coffee.qss</file>
+  </qresource>
+</RCC>
